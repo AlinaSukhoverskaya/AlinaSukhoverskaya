@@ -1,6 +1,9 @@
 <div id="badges">
-  <a href="https://www.linkedin.com/in/alina-sukhoverskaya-7a4349287/">
+  <a href="https://www.linkedin.com/in/alina-sukhoverskaya">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/sukhoverskaya">
+    <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <h1>>> Hellow, world!</h1>
