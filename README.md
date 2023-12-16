@@ -10,11 +10,11 @@
   </a>
 </div>
 <h1>>> Hellow, world!</h1>
-<h3>About Me :</h3>
-I am a Data Analyst from Moscow.
+<h3>About Me</h3>
+I am a theoretical physicist by education, an engineer by experience, and a data analyst by choice. I like exploring and finding patterns in everything - both in work and in life. I am not afraid of such phrases as RFM analysis, ABC/XYZ analysis, cohort analysis, AB test – just open <a href="https://github.com/AlinaSukhoverskaya/Projects"><b>Projects repository</b></a> up and look for yourself. :paw_prints:
 
 ---
-Languages and Tools :</h3>
+<h3>Languages and Tools</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
