@@ -5,9 +5,6 @@
   <a href="mailto: alina.sukhoverskaya@mail.ru">
     <img src="https://img.shields.io/badge/-mail.ru-blue?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="Mail.ru Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/alina-sukhoverskaya">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
 <h1>>> Hello, world!</h1>
 <h3>About Me</h3>
