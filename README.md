@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h1>>> Hellow, world!</h1>
+<h1>>> Hello, world!</h1>
 <h3>About Me</h3>
 I am a theoretical physicist by education, an engineer by experience, and a data analyst by choice. I like exploring and finding patterns in everything - both in work and in life. I am not afraid of such phrases as RFM analysis, ABC/XYZ analysis, cohort analysis, AB test – just open <a href="https://github.com/AlinaSukhoverskaya/Projects"><b>Projects repository</b></a> up and look for yourself. :paw_prints:
 
