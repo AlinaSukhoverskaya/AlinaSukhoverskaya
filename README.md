@@ -2,7 +2,7 @@
   <a href="https://t.me/sukhoverskaya">
     <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto: a.sukhoverskaya@gmail.ru">
+  <a href="mailto: a.sukhoverskaya@gmail.com">
     <img src="https://img.shields.io/badge/-email-blue?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
